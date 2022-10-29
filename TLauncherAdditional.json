@@ -1,0 +1,680 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "additionalFiles": [
+    {
+      "sha1": "045d6edac8fe1b004e159c49704b5b729f551079",
+      "size": 9118806,
+      "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
+    },
+    {
+      "sha1": "0202b5336b409793b4d27eb66014d6209376f7b1",
+      "size": 11352644,
+      "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg-0202b5336b409793b4d27eb66014d6209376f7b1.jar"
+    },
+    {
+      "sha1": "4aef4168f94d97bc73bf510213b2518942f931d1",
+      "size": 8428369,
+      "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
+    },
+    {
+      "sha1": "807540b167214a81684716fa0d6e92566ae14a04",
+      "size": 2504067,
+      "path": "libraries/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar"
+    },
+    {
+      "sha1": "07678ff3edd6990a75bf0707ad2dbb2315b8000f",
+      "size": 4216473,
+      "path": "libraries/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-client.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-client.jar"
+    }
+  ],
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -957270959907500,
+    "name": "my_top",
+    "favorite": false,
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 454372,
+          "name": "SuperMartijn642's Core Lib",
+          "favorite": false,
+          "version": {
+            "id": 3863127,
+            "name": "Core Lib 1.0.19 for Forge 1.16.5",
+            "metadata": {
+              "sha1": "e0d7a20697e60c7323deb162613aca984a25fa7a",
+              "size": 206614,
+              "path": "mods/supermartijn642corelib-1.0.19-forge-mc1.16.5.jar",
+              "url": "/mods/454372/3863127/supermartijn642corelib-1.0.19-forge-mc1.16.5.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 438332,
+          "name": "SuperMartijn642's Config Lib",
+          "favorite": false,
+          "version": {
+            "id": 3862963,
+            "name": "Config Lib 1.1.6 for Forge 1.16",
+            "metadata": {
+              "sha1": "b64d0336793a22a0587df067aa439f79b325e621",
+              "size": 205206,
+              "path": "mods/supermartijn642configlib-1.1.6-forge-mc1.16.jar",
+              "url": "/mods/438332/3862963/supermartijn642configlib-1.1.6-forge-mc1.16.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 373051,
+          "name": "Moving Elevators",
+          "favorite": false,
+          "version": {
+            "id": 3878282,
+            "name": "1.3.9 for Forge 1.16",
+            "metadata": {
+              "sha1": "9489bf9cfc20e8aef181804cf1aa40aeaec29b49",
+              "size": 307082,
+              "path": "mods/movingelevators-1.3.9-forge-mc1.16.jar",
+              "url": "/mods/373051/3878282/movingelevators-1.3.9-forge-mc1.16.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 454372,
+              "name": "SuperMartijn642's Core Lib",
+              "gameEntityId": 454372,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 438332,
+              "name": "SuperMartijn642's Config Lib",
+              "gameEntityId": 438332,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 238222,
+          "name": "Just Enough Items (JEI)",
+          "favorite": false,
+          "version": {
+            "id": 3681294,
+            "name": "jei-1.16.5-7.7.1.152",
+            "metadata": {
+              "sha1": "3cc5fb94d2225af367a04fbc8b288644d6e8ac1b",
+              "size": 828677,
+              "path": "mods/jei-1.16.5-7.7.1.152.jar",
+              "url": "/mods/238222/3681294/jei-1.16.5-7.7.1.152.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 32274,
+          "name": "JourneyMap",
+          "favorite": false,
+          "version": {
+            "id": 4012858,
+            "name": "journeymap-1.16.5-5.8.5p6",
+            "metadata": {
+              "sha1": "5245221653a0113713a7261898b49f71b779b6c8",
+              "size": 6693593,
+              "path": "mods/journeymap-1.16.5-5.8.5p6.jar",
+              "url": "/mods/32274/4012858/journeymap-1.16.5-5.8.5p6.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 226005,
+              "name": "JourneyMap Tools",
+              "gameEntityId": 226005,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 245211,
+          "name": "The One Probe",
+          "favorite": false,
+          "version": {
+            "id": 3752096,
+            "name": " 1.16-3.1.7",
+            "metadata": {
+              "sha1": "11e9286ec3e11a23dddcb76866a4fa3b77f30406",
+              "size": 326985,
+              "path": "mods/theoneprobe-1.16-3.1.7.jar",
+              "url": "/mods/245211/3752096/theoneprobe-1.16-3.1.7.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 270789,
+              "name": "Redstone Flux",
+              "gameEntityId": 270789,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 244651,
+              "name": "TESLA",
+              "gameEntityId": 244651,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 227083,
+              "name": "Baubles",
+              "gameEntityId": 227083,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 309927,
+          "name": "Curios API (Forge)",
+          "favorite": false,
+          "version": {
+            "id": 3725386,
+            "name": "curios-forge-1.16.5-4.0.8.2",
+            "metadata": {
+              "sha1": "25df638beedfd5a339eaeeea15a93d3708dc4116",
+              "size": 277848,
+              "path": "mods/curios-forge-1.16.5-4.0.8.2.jar",
+              "url": "/mods/309927/3725386/curios-forge-1.16.5-4.0.8.2.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 321117,
+          "name": "Traveler's Backpack",
+          "favorite": false,
+          "version": {
+            "id": 4041311,
+            "name": "TravelersBackpack-1.16.5-5.4.19",
+            "metadata": {
+              "sha1": "8569cca8f5c62b4eeb8908ea882b32b2d2ef287f",
+              "size": 426631,
+              "path": "mods/TravelersBackpack-1.16.5-5.4.19.jar",
+              "url": "/mods/321117/4041311/TravelersBackpack-1.16.5-5.4.19.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 309927,
+              "name": "Curios API (Forge)",
+              "gameEntityId": 309927,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 459701,
+          "name": "Catalogue",
+          "favorite": false,
+          "version": {
+            "id": 3780550,
+            "name": "1.6.1",
+            "metadata": {
+              "sha1": "1f043d42bd191d4701b6b58e47ccd247daacd81c",
+              "size": 97637,
+              "path": "mods/catalogue-1.6.1-1.16.5.jar",
+              "url": "/mods/459701/3780550/catalogue-1.6.1-1.16.5.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 457570,
+              "name": "Configured",
+              "gameEntityId": 457570,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 457570,
+          "name": "Configured",
+          "favorite": false,
+          "version": {
+            "id": 3946491,
+            "name": "1.5.3",
+            "metadata": {
+              "sha1": "4c7894a347b7629c71d77ad1f04735a2823365d5",
+              "size": 131486,
+              "path": "mods/configured-1.5.3-1.16.5.jar",
+              "url": "/mods/457570/3946491/configured-1.5.3-1.16.5.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 459701,
+              "name": "Catalogue",
+              "gameEntityId": 459701,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 317269,
+          "name": "Controllable",
+          "favorite": false,
+          "version": {
+            "id": 3937166,
+            "name": "0.16.5",
+            "metadata": {
+              "sha1": "fdf05fb4972e80d9bed287542fff39dc35418e39",
+              "size": 322673,
+              "path": "mods/controllable-0.16.5-1.16.5.jar",
+              "url": "/mods/317269/3937166/controllable-0.16.5-1.16.5.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 459701,
+              "name": "Catalogue",
+              "gameEntityId": 459701,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 457570,
+              "name": "Configured",
+              "gameEntityId": 457570,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 289479,
+          "name": "MrCrayfish's Gun Mod",
+          "favorite": false,
+          "version": {
+            "id": 3830458,
+            "name": "Gun Mod 1.2.6",
+            "metadata": {
+              "sha1": "fd68ddfceb38361124a39c4d59b08cbb4eb7b78d",
+              "size": 1607217,
+              "path": "mods/cgm-1.2.6-1.16.5.jar",
+              "url": "/mods/289479/3830458/cgm-1.2.6-1.16.5.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 459701,
+              "name": "Catalogue",
+              "gameEntityId": 459701,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 457570,
+              "name": "Configured",
+              "gameEntityId": 457570,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 317269,
+              "name": "Controllable",
+              "gameEntityId": 317269,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 549225,
+              "name": "Framework",
+              "gameEntityId": 549225,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 282001,
+          "name": "CC Tweaked",
+          "favorite": false,
+          "version": {
+            "id": 4013865,
+            "name": "cc-tweaked-1.16.5-1.100.10",
+            "metadata": {
+              "sha1": "b5ccd6bd904e746014f550d00cb515129e4b1c92",
+              "size": 1919221,
+              "path": "mods/cc-tweaked-1.16.5-1.100.10.jar",
+              "url": "/mods/282001/4013865/cc-tweaked-1.16.5-1.100.10.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 245755,
+          "name": "Waystones",
+          "favorite": false,
+          "version": {
+            "id": 3515707,
+            "name": "_1.16.5-7.6.4",
+            "metadata": {
+              "sha1": "986457447ebc040939214d5d59efb5529e3f9648",
+              "size": 375934,
+              "path": "mods/Waystones_1.16.5-7.6.4.jar",
+              "url": "/mods/245755/3515707/Waystones_1.16.5-7.6.4.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 531761,
+              "name": "Balm (Forge Edition)",
+              "gameEntityId": 531761,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 248787,
+          "name": "AppleSkin",
+          "favorite": false,
+          "version": {
+            "id": 3686480,
+            "name": "appleskin-forge-mc1.16.x-2.4.0",
+            "metadata": {
+              "sha1": "556ba3ebdb401e0833e7151e7a7bca5f8fdac160",
+              "size": 47735,
+              "path": "mods/appleskin-forge-mc1.16.x-2.4.0.jar",
+              "url": "/mods/248787/3686480/appleskin-forge-mc1.16.x-2.4.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 363703,
+          "name": "Goblin Traders",
+          "favorite": false,
+          "version": {
+            "id": 3781324,
+            "name": "1.7.3",
+            "metadata": {
+              "sha1": "a49c74fbf81a0a9c993860bc5ab3f19e0ab368c1",
+              "size": 428711,
+              "path": "mods/goblintraders-1.7.3-1.16.5.jar",
+              "url": "/mods/363703/3781324/goblintraders-1.7.3-1.16.5.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 459701,
+              "name": "Catalogue",
+              "gameEntityId": 459701,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 457570,
+              "name": "Configured",
+              "gameEntityId": 457570,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 228756,
+          "name": "Iron Chests",
+          "favorite": false,
+          "version": {
+            "id": 3543538,
+            "name": "ironchest-1.16.5-11.2.21",
+            "metadata": {
+              "sha1": "59e263b8dd04ad2742def8b3773d5e2f6e1ba03c",
+              "size": 258298,
+              "path": "mods/ironchest-1.16.5-11.2.21.jar",
+              "url": "/mods/228756/3543538/ironchest-1.16.5-11.2.21.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 271050,
+          "name": "Doggy Talents",
+          "favorite": false,
+          "version": {
+            "id": 3547942,
+            "name": "1.16.5-2.1.15",
+            "metadata": {
+              "sha1": "351f9b882c0da908225867848c7ad51afd376d47",
+              "size": 1144133,
+              "path": "mods/DoggyTalents-1.16.5-2.1.15.jar",
+              "url": "/mods/271050/3547942/DoggyTalents-1.16.5-2.1.15.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 245506,
+          "name": "Minecolonies",
+          "favorite": false,
+          "version": {
+            "id": 3949019,
+            "name": "minecolonies-1.16.5-1.0.978-RELEASE",
+            "metadata": {
+              "sha1": "b8910bac145573bccf2448497a4021ef5dc6fced",
+              "size": 40418468,
+              "path": "mods/minecolonies-1.16.5-1.0.978-RELEASE.jar",
+              "url": "/mods/245506/3949019/minecolonies-1.16.5-1.0.978-RELEASE.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 298744,
+              "name": "Structurize",
+              "gameEntityId": 298744,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 522992,
+              "name": "BlockUI",
+              "gameEntityId": 522992,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 303278,
+              "name": "Multi-Piston",
+              "gameEntityId": 303278,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 527361,
+              "name": "Domum Ornamentum",
+              "gameEntityId": 527361,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 298744,
+          "name": "Structurize",
+          "favorite": false,
+          "version": {
+            "id": 3894957,
+            "name": "structurize-1.16.5-1.0.418-ALPHA",
+            "metadata": {
+              "sha1": "15e49e336b102c5aaaaa69cd43b75d955371211f",
+              "size": 11409533,
+              "path": "mods/structurize-1.16.5-1.0.418-ALPHA.jar",
+              "url": "/mods/298744/3894957/structurize-1.16.5-1.0.418-ALPHA.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 289380,
+          "name": "Obfuscate",
+          "favorite": false,
+          "version": {
+            "id": 3740120,
+            "name": "0.6.3",
+            "metadata": {
+              "sha1": "a06fc70c114fcf2dbdab8d9144e0e6d6df5bd424",
+              "size": 142536,
+              "path": "mods/obfuscate-0.6.3-1.16.5.jar",
+              "url": "/mods/289380/3740120/obfuscate-0.6.3-1.16.5.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 459701,
+              "name": "Catalogue",
+              "gameEntityId": 459701,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 457570,
+              "name": "Configured",
+              "gameEntityId": 457570,
+              "dependencyType": "optional"
+            }
+          ],
+          "available": false
+        }
+      ],
+      "resourcePacks": [],
+      "maps": [],
+      "shaderpacks": [],
+      "gameVersionDTO": {
+        "id": 31,
+        "name": "1.16.5"
+      },
+      "forgeVersionDTO": {
+        "id": 3267,
+        "name": "36.2.39"
+      },
+      "id": -957270959910101,
+      "name": "1.0",
+      "available": false
+    },
+    "userInstall": false,
+    "populateStatus": false,
+    "available": false
+  },
+  "source": "local_version_repo",
+  "jar": "1.16.5",
+  "skinVersion": false
+}
